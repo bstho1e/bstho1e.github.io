@@ -1,16 +1,16 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
+bstho1e:
+  name: Seonghoon Jeong
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: "@sns_shjeong"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/sns_shjeong
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
+bstho1e:
+  name: Seonghoon Jeong
   picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+  twitter: sns_shjeong
