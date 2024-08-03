@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
-locale: en-US
-title: "That which inspires awe"
-description: "A software development blog"
+locale: ko-KR
+title: "test"
+description: "test2"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://blog.indrek.io
+url: https://bstho1e.github.io
 #url: "http://localhost:4000"
 logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -33,9 +33,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics:
 disqus:
-  shortname: "thatwhichinspiresawe"
+  shortname: "reply_shjeong"
 twitter:
-  username: "otsindrek"
+  username: "sns_shjeong"
 
 # Liquid
 liquid:
@@ -88,31 +88,31 @@ defaults:
 
 # Site Author
 author:
-  name: Indrek Ots
+  name: bstho1e
   picture: "/images/avatar4.jpg"
-  email: ots.indrek@gmail.com
-  twitter: otsindrek
+  email: www.shjeong@gmail.com
+  twitter: sns_shjeong
   links:
     - title: Twitter
-      url: https://twitter.com/otsindrek
+      url: https://twitter.com/sns_shjeong
       icon: fab fa-twitter
     - title: Github
-      url: https://github.com/indrekots
+      url: https://github.com/bstho1e
       icon: fab fa-github
     - title: Stackoverflow
-      url: https://stackoverflow.com/users/2928051/indrek-ots
+      url: https://stackoverflow.com/users/26556086/stackoverflow-shjeong
       icon: fab fa-stack-overflow
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/otsindrek
+    url: https://twitter.com/sns_shjeong
     icon: fab fa-twitter
   - title: Github
-    url: https://github.com/indrekots
+    url: https://github.com/bstho1e
     icon: fab fa-github
   - title: Stackoverflow
-    url: https://stackoverflow.com/users/2928051/indrek-ots
+    url: https://stackoverflow.com/users/26556086/stackoverflow-shjeong
     icon: fab fa-stack-overflow
   - title: Feed
     url: atom.xml
