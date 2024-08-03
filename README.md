@@ -1,5 +1,5 @@
 
-**bstho1e blog**
+bstho1e blog
 ---
 Powered by [So Simple Jekyll Theme](https://github.com/mmistakes/so-simple-theme)
 ---
