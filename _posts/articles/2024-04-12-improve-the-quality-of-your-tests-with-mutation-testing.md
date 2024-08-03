@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improve the Quality of Your Tests With Mutation Testing"
+title: "이거 되는거 맞어?"
 excerpt: "Ever wondered if your tests are actually catching bugs as they should? Let's dive into mutation testing, a clever technique that helps us validate the quality of our tests."
 modified: 2024-04-012 12:05:18 +0200
 categories: articles
