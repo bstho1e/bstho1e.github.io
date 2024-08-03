@@ -1,7 +1,7 @@
 
 **bstho1e blog**
 ---
-first blog
+Powered by [So Simple Jekyll Theme](https://github.com/mmistakes/so-simple-theme)
 ---
 The MIT License (MIT)
 
