@@ -7,13 +7,5 @@ const dateObj = new Date();
 const date = `${dateObj.getFullYear()}-${padStart(
   dateObj.getMonth() + 1
 )}-${padStart(dateObj.getDate())}`;
-const banner = `/*!
- * So Simple Jekyll Theme ${pkg.version} by ${pkg.author}
- * Copyright 2024-${dateObj.getFullYear()} Jeong Seonghoon - sellmonc.com | @mmistakes
- * Licensed under ${pkg.license}
- */
-`;
 
-if (script.slice(0, 3) != "/**") {
-  fs.writeFileSync(filename, banner + script);
 }
