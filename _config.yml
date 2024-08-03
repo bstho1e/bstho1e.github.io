@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: ko-KR
 title: "bstho1e"
-description: "º≥∏Ì«ÿ"
+description: "what it is"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://bstho1e.github.io
 #url: "http://localhost:4000"
